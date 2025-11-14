@@ -1,4 +1,4 @@
-# Cafe24 PRO Slim Max
+# 카페24 PRO Slim Max
 
 [배포처 바로가기](https://fonts.cafe24.com/)
 
